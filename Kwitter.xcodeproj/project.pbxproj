@@ -7,17 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA06BC661E81F0090028A516 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA06BC651E81F0090028A516 /* PostCell.swift */; };
+		FA424F471E84BB31009A0B30 /* UsuariosVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA424F461E84BB31009A0B30 /* UsuariosVC.swift */; };
+		FA424F491E84BB60009A0B30 /* UsuariosCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA424F481E84BB60009A0B30 /* UsuariosCell.swift */; };
+		FA424F4B1E856C23009A0B30 /* ConvidadoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA424F4A1E856C23009A0B30 /* ConvidadoVC.swift */; };
+		FA424F4D1E858AA5009A0B30 /* EditarVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA424F4C1E858AA5009A0B30 /* EditarVC.swift */; };
+		FA4C9F8F1E806905007D9BF5 /* PostVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4C9F8E1E806905007D9BF5 /* PostVC.swift */; };
+		FA5DEB481E786005001A3342 /* EntrarVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5DEB471E786005001A3342 /* EntrarVC.swift */; };
+		FA5DEB4A1E788B19001A3342 /* RedefinirSenhaVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5DEB491E788B19001A3342 /* RedefinirSenhaVC.swift */; };
+		FA5DEB4C1E7CD670001A3342 /* NavVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5DEB4B1E7CD670001A3342 /* NavVC.swift */; };
+		FA5DEB4E1E7CDA0B001A3342 /* TabBarVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5DEB4D1E7CDA0B001A3342 /* TabBarVC.swift */; };
+		FA5DEB501E7CE911001A3342 /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5DEB4F1E7CE911001A3342 /* HomeVC.swift */; };
 		FAD051C81E75CC440043DC65 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD051C71E75CC440043DC65 /* AppDelegate.swift */; };
-		FAD051CA1E75CC440043DC65 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD051C91E75CC440043DC65 /* ViewController.swift */; };
+		FAD051CA1E75CC440043DC65 /* RegistrarVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD051C91E75CC440043DC65 /* RegistrarVC.swift */; };
 		FAD051CD1E75CC440043DC65 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAD051CB1E75CC440043DC65 /* Main.storyboard */; };
 		FAD051CF1E75CC440043DC65 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAD051CE1E75CC440043DC65 /* Assets.xcassets */; };
 		FAD051D21E75CC440043DC65 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAD051D01E75CC440043DC65 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FA06BC651E81F0090028A516 /* PostCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		FA424F461E84BB31009A0B30 /* UsuariosVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UsuariosVC.swift; sourceTree = "<group>"; };
+		FA424F481E84BB60009A0B30 /* UsuariosCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UsuariosCell.swift; sourceTree = "<group>"; };
+		FA424F4A1E856C23009A0B30 /* ConvidadoVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConvidadoVC.swift; sourceTree = "<group>"; };
+		FA424F4C1E858AA5009A0B30 /* EditarVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EditarVC.swift; sourceTree = "<group>"; };
+		FA4C9F8E1E806905007D9BF5 /* PostVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PostVC.swift; sourceTree = "<group>"; };
+		FA5DEB471E786005001A3342 /* EntrarVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EntrarVC.swift; sourceTree = "<group>"; };
+		FA5DEB491E788B19001A3342 /* RedefinirSenhaVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RedefinirSenhaVC.swift; sourceTree = "<group>"; };
+		FA5DEB4B1E7CD670001A3342 /* NavVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavVC.swift; sourceTree = "<group>"; };
+		FA5DEB4D1E7CDA0B001A3342 /* TabBarVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabBarVC.swift; sourceTree = "<group>"; };
+		FA5DEB4F1E7CE911001A3342 /* HomeVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeVC.swift; sourceTree = "<group>"; };
 		FAD051C41E75CC440043DC65 /* Kwitter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Kwitter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAD051C71E75CC440043DC65 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		FAD051C91E75CC440043DC65 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		FAD051C91E75CC440043DC65 /* RegistrarVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrarVC.swift; sourceTree = "<group>"; };
 		FAD051CC1E75CC440043DC65 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		FAD051CE1E75CC440043DC65 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FAD051D11E75CC440043DC65 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -55,7 +77,18 @@
 			isa = PBXGroup;
 			children = (
 				FAD051C71E75CC440043DC65 /* AppDelegate.swift */,
-				FAD051C91E75CC440043DC65 /* ViewController.swift */,
+				FA5DEB471E786005001A3342 /* EntrarVC.swift */,
+				FAD051C91E75CC440043DC65 /* RegistrarVC.swift */,
+				FA5DEB491E788B19001A3342 /* RedefinirSenhaVC.swift */,
+				FA5DEB4B1E7CD670001A3342 /* NavVC.swift */,
+				FA5DEB4D1E7CDA0B001A3342 /* TabBarVC.swift */,
+				FA5DEB4F1E7CE911001A3342 /* HomeVC.swift */,
+				FA424F4C1E858AA5009A0B30 /* EditarVC.swift */,
+				FA4C9F8E1E806905007D9BF5 /* PostVC.swift */,
+				FA06BC651E81F0090028A516 /* PostCell.swift */,
+				FA424F461E84BB31009A0B30 /* UsuariosVC.swift */,
+				FA424F481E84BB60009A0B30 /* UsuariosCell.swift */,
+				FA424F4A1E856C23009A0B30 /* ConvidadoVC.swift */,
 				FAD051CB1E75CC440043DC65 /* Main.storyboard */,
 				FAD051CE1E75CC440043DC65 /* Assets.xcassets */,
 				FAD051D01E75CC440043DC65 /* LaunchScreen.storyboard */,
@@ -97,6 +130,7 @@
 					FAD051C31E75CC430043DC65 = {
 						CreatedOnToolsVersion = 8.2.1;
 						DevelopmentTeam = HM3P6TPYBB;
+						LastSwiftMigration = 0820;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -137,8 +171,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FAD051CA1E75CC440043DC65 /* ViewController.swift in Sources */,
+				FAD051CA1E75CC440043DC65 /* RegistrarVC.swift in Sources */,
+				FA5DEB501E7CE911001A3342 /* HomeVC.swift in Sources */,
+				FA5DEB4C1E7CD670001A3342 /* NavVC.swift in Sources */,
+				FA424F4D1E858AA5009A0B30 /* EditarVC.swift in Sources */,
+				FA424F471E84BB31009A0B30 /* UsuariosVC.swift in Sources */,
+				FA424F4B1E856C23009A0B30 /* ConvidadoVC.swift in Sources */,
+				FA5DEB4A1E788B19001A3342 /* RedefinirSenhaVC.swift in Sources */,
 				FAD051C81E75CC440043DC65 /* AppDelegate.swift in Sources */,
+				FA06BC661E81F0090028A516 /* PostCell.swift in Sources */,
+				FA5DEB4E1E7CDA0B001A3342 /* TabBarVC.swift in Sources */,
+				FA4C9F8F1E806905007D9BF5 /* PostVC.swift in Sources */,
+				FA5DEB481E786005001A3342 /* EntrarVC.swift in Sources */,
+				FA424F491E84BB60009A0B30 /* UsuariosCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -302,6 +347,7 @@
 				FAD051D81E75CC440043DC65 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
